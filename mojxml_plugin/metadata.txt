@@ -1,7 +1,8 @@
 [general]
 name=MOJXML Loader
-version=0.6.1
+version=0.6.2
 qgisMinimumVersion=3.22
+qgisMaximumVersion=4.99
 supportsQt6=True
 description=This plugin is made for Japanese users. It converts Japanese "MOJ Map XML" (land registration polygon data) into geospatial formats. 法務省登記所備付地図データ（地図XML）の変換や読み込みを行います。
 author=MIERUNE Inc.
