@@ -10,14 +10,14 @@ email=info@mierune.co.jp
 
 about=This plugin is made for Japanese users. It converts Japanese "MOJ Map XML" (land registration polygon data) into geospatial formats. 法務省登記所備付地図データ（地図XML）の変換や読み込みを行います。プロセッシング・ツールボックスなどから呼び出して使用できます。
 
-tracker=https://github.com/MIERUNE/qgis-mojxml-plugin/issues
-repository=https://github.com/MIERUNE/qgis-mojxml-plugin
+tracker=https://github.com/ciscorn/qgis-mojxml-plugin/issues
+repository=https://github.com/ciscorn/qgis-mojxml-plugin
 
 hasProcessingProvider=yes
 changelog=
 tags=python,processing
 
-homepage=https://github.com/MIERUNE/qgis-mojxml-plugin
+homepage=https://github.com/ciscorn/qgis-mojxml-plugin
 category=Plugins
 icon=icon.png
 experimental=False
