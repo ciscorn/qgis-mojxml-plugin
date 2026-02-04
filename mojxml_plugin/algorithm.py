@@ -1,6 +1,6 @@
 """Processing algorithm for converting MOJXML files"""
 
-# Copyright (C) 2023 MIERUNE Inc.
+# Copyright (C) 2023 Taku Fukada
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License

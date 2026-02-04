@@ -3,7 +3,6 @@ name = "qgis-mojxml-plugin"
 version = "0.0.0"
 authors = [
     { name = "Taku Fukada", email = "naninunenor@gmail.com" },
-    { name = "MIERUNE Inc.", email = "info@mierune.co.jp" },
 ]
 description = "A QGIS plugin to load Japanese “MOJ Map XML” (land registration polygons in Japan)."
 readme = "README.md"
