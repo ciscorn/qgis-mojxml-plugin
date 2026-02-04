@@ -1,6 +1,6 @@
 # qgis-mojxml-plugin
 
-[![Test](https://github.com/MIERUNE/qgis-mojxml-plugin/actions/workflows/test.yml/badge.svg)](https://github.com/MIERUNE/qgis-mojxml-plugin/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/MIERUNE/qgis-mojxml-plugin/branch/main/graph/badge.svg?token=YKAY0VKZOT)](https://codecov.io/gh/MIERUNE/qgis-mojxml-plugin)
+[![Test](https://github.com/ciscorn/qgis-mojxml-plugin/actions/workflows/test.yml/badge.svg)](https://github.com/ciscorn/qgis-mojxml-plugin/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/ciscorn/qgis-mojxml-plugin/branch/main/graph/badge.svg?token=YKAY0VKZOT)](https://codecov.io/gh/ciscorn/qgis-mojxml-plugin)
 
 [QGIS](https://qgis.org/) で [法務省登記所備付地図データ](https://front.geospatial.jp/moj-chizu-xml-readme/moj-chizu-xml-download/)（地図 XML）の変換や読み込みを行うためのプラグインです。
 
@@ -49,10 +49,9 @@ make test
 
 GPL v2
 
-This plugin contains [MIERUNE/mojxml-py](https://github.com/MIERUNE/mojxml-py), which is licensed under the MIT License.
+This plugin contains [ciscorn/mojxml-py](https://github.com/ciscorn/mojxml-py), which is licensed under the MIT License.
 
 ## Authors
 
 - Taku Fukada ([@ciscorn](https://github.com/ciscorn)) - Original Author
 - And all contributors
-
